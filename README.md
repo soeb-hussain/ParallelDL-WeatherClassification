@@ -1,7 +1,7 @@
 # Parallelization Techniques in Deep Learning for Weather Classification in Images
 
 
-## Contributors Names: Dushyant Mahajan, Soeb Hussain
+## Contributors : Dushyant Mahajan, Soeb Hussain
 
 ### Introduction
 **Background:** 
