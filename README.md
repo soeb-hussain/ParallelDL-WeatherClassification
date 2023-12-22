@@ -1,8 +1,7 @@
 # Parallelization Techniques in Deep Learning for Weather Classification in Images
 
-## Instructor: Dr. Handan Liu
-## Team Number: Team 9
-## Member Names: Dushyant Mahajan, Soeb Hussain
+
+## Contributors Names: Dushyant Mahajan, Soeb Hussain
 
 ### Introduction
 **Background:** 
