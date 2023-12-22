@@ -1,8 +1,5 @@
 # Parallelization Techniques in Deep Learning for Weather Classification in Images
 
-
-## Contributors : Dushyant Mahajan, Soeb Hussain
-
 ### Introduction
 **Background:** 
 Weather image classification is a challenging task, as it requires the ability to identify and distinguish between a wide range of weather conditions, from clear skies to thunderstorms. Deep learning models have shown promising results for this task, but they can be computationally expensive to train and deploy.
